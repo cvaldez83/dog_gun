@@ -17,3 +17,8 @@ https://learn.adafruit.com/adafruit-16-channel-servo-driver-with-raspberry-pi/us
 `from adafruit_servokit import ServoKit`  
 `kit = ServoKit(channels=16)`  
 `kit.servo[0].angle = 180`
+
+## install opencv
+follow this link:  
+https://www.life2coding.com/install-opencv-3-4-0-python-3-raspberry-pi-3/  
+
