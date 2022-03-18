@@ -20,5 +20,8 @@ https://learn.adafruit.com/adafruit-16-channel-servo-driver-with-raspberry-pi/us
 
 ## install opencv
 follow this link:  
-https://www.life2coding.com/install-opencv-3-4-0-python-3-raspberry-pi-3/  
+https://forums.raspberrypi.com/viewtopic.php?t=307157  
+you may need to upgrade numpy
+`pip install numpy --upgrade`
+
 
